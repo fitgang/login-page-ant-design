@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/login-page-build/static/css/main.f60ed803.css",
+    "main.js": "/login-page-build/static/js/main.3067ce83.js",
+    "index.html": "/login-page-build/index.html",
+    "main.f60ed803.css.map": "/login-page-build/static/css/main.f60ed803.css.map",
+    "main.3067ce83.js.map": "/login-page-build/static/js/main.3067ce83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f60ed803.css",
+    "static/js/main.3067ce83.js"
+  ]
+}
