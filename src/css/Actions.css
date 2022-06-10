@@ -1,0 +1,10 @@
+div#actions {
+  gap: 1em;
+  width: 400px;
+}
+
+@media screen and (min-width: 960px) {
+  #actions {
+    display: flex;
+  }
+}
